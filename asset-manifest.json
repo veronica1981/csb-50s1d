@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "https://veronica1981.github.io/csb-50s1d/static/js/main.5d56ff63.chunk.js",
+    "main.js.map": "https://veronica1981.github.io/csb-50s1d/static/js/main.5d56ff63.chunk.js.map",
+    "runtime-main.js": "https://veronica1981.github.io/csb-50s1d/static/js/runtime-main.9696cc99.js",
+    "runtime-main.js.map": "https://veronica1981.github.io/csb-50s1d/static/js/runtime-main.9696cc99.js.map",
+    "static/js/2.0a6b8640.chunk.js": "https://veronica1981.github.io/csb-50s1d/static/js/2.0a6b8640.chunk.js",
+    "static/js/2.0a6b8640.chunk.js.map": "https://veronica1981.github.io/csb-50s1d/static/js/2.0a6b8640.chunk.js.map",
+    "index.html": "https://veronica1981.github.io/csb-50s1d/index.html",
+    "precache-manifest.a766e59e59defb2c862ea6c572aeaf5a.js": "https://veronica1981.github.io/csb-50s1d/precache-manifest.a766e59e59defb2c862ea6c572aeaf5a.js",
+    "service-worker.js": "https://veronica1981.github.io/csb-50s1d/service-worker.js",
+    "static/js/2.0a6b8640.chunk.js.LICENSE.txt": "https://veronica1981.github.io/csb-50s1d/static/js/2.0a6b8640.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9696cc99.js",
+    "static/js/2.0a6b8640.chunk.js",
+    "static/js/main.5d56ff63.chunk.js"
+  ]
+}
